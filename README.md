@@ -30,8 +30,8 @@ http://localhost:8080/api/payment/customer
 POST
 http://localhost:8080/api/payment/checkout-session
 {
-    "customerId": "cus_QtYLlvPJLVjEo2",
-    "priceId": "price_1Q1uwMRw5ujNBBraME2FqppZ",
+    "customerId": "cus_...",
+    "priceId": "price_...",
     "currency": "aud",
     "quantity": 1
 }
